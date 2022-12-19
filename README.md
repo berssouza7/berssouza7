@@ -12,7 +12,7 @@ Estou em processo de desenvolvimento dos aplicativos: **Sbore**, **Cacs** e **Be
 Lista para aprender:
 * GitHub :star:
 * MarkDown :dizzy:
-* VSCode :collison:
+* VSCode 💥
 * HTML :sparkles:
 * CSS :fire:
 * JavaScript :zap:
